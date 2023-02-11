@@ -44,7 +44,7 @@ O objetivo desse desafio é criar uma API GraphQL que irá possibilitar a criaç
 | start_date              | Date   | false    |
 | start_date_registration | Date   | false    |
 | end_date_registration   | Date   | false    |
-| start_place             | string | false    |
+| link                    | string | false    |
 | participants_limit      | number | true     |
 | updated_at              | Date   | false    |
 | created_at              | Date   | false    |
